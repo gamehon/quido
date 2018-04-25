@@ -1,5 +1,5 @@
 개발 목표
 
-- core (c)
+- nbitcoin
+- cli (c#)
 - gui (c#)
-- socket (c#)
