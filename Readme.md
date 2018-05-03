@@ -19,7 +19,7 @@ Oparts coin. 개발 목표
 
 모바일 버전의 오파츠 헌터 제작
 
-[![Oparts Hunter map](https://img.youtube.com/vi/nNX62gc2Ld8/0.jpg)](https://www.youtube.com/watch?v=nNX62gc2Ld8)
+[![Oparts Hunter map](http://cfile26.uf.tistory.com/image/993481405AEA9017188F72)](http://tv.kakao.com/embed/player/cliplink/385340434?service=daum_tistory)
 
 일단은 quido.org 재단 설립.
 
