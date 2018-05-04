@@ -1,3 +1,9 @@
+Quido is my individual Project.
+I will not ico.
+
+Quido 는 개인 프로젝트입니다.
+ICO를 비롯하여 암호화폐 투자에 관련하여 아무것도 예정되지 않았습니다.
+
 * Quido 소개
 
 * Quido는 한개의 금화와 같이 가치를 가진 모든 것을 보존하고 발굴하며 인증하는 것을 목표로 하고 있습니다.
