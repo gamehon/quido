@@ -20,6 +20,19 @@ ICO를 비롯하여 암호화폐 투자에 관련하여 아무것도 예정되�
 
 * Quido가 발행하는 Oparts 코인은 잠재적 가치를 지닌 현물을 기반으로 한 암호화폐입니다.
 
+-QUIDO-
+
+![QUIDO](http://cfile1.uf.tistory.com/image/995287405AF0263F1262B7)
+
+-Oparts-
+
+![Oparts](http://cfile24.uf.tistory.com/image/99F804405AF0263F39DFAE)
+
+-Art-
+
+![Art](http://cfile26.uf.tistory.com/image/991D36405AF0263F27D28B)
+
+
 
 Oparts coin. 개발 목표
 
