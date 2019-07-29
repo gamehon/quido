@@ -47,3 +47,5 @@ Oparts coin. 개발 목표
 - nbitcoin
 - cli (c#)
 - gui (c#)
+
+http://cloudgames.co.kr/quido/
